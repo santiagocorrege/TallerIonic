@@ -1,0 +1,36 @@
+
+  ion-col {
+    /*background-color: #135d54;
+    border: solid 1px #000000;*/
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+  }
+
+
+  .alimentos-details, .center {
+    text-align: center;
+    margin: auto;
+  }
+
+  .agregar-imagen{
+    margin-left: 47%;
+  }
+
+  ion-datetime{
+    margin: auto;
+  }
+
+  #listar-comidas-grid{
+    width: 90%
+  }
+#card-informe-calHoy{
+  color: black;
+}
+
+#map { height: 250px; width: 100%}
+
+#agregar-titulo{
+  text-align: center;
+}
